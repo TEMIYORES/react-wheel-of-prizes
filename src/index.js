@@ -43,6 +43,7 @@ const WheelComponent = ({
   const initCanvas = () => {
     let canvas = document.getElementById('canvas')
     console.log(navigator)
+    console.log("react-wheely")
     if (navigator.userAgent.indexOf('MSIE') !== -1) {
       canvas = document.createElement('canvas')
       canvas.setAttribute('width', 1000)
