@@ -1,10 +1,10 @@
 {
-  "name": "react-wheel-of-prizes",
-  "version": "1.0.9",
+  "name": "temiyores-mod-react-wheel",
+  "version": "1.1.0",
   "description": "It is a wheel of prizes game build using reactjs",
   "author": "shekharramola",
   "license": "GNU General Public License v3.0",
-  "repository": "shekharramola/react-wheel-of-prizes",
+  "repository": "TEMIYORES/react-wheel-of-prizes",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
